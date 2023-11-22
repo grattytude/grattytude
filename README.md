@@ -10,4 +10,3 @@ email me @ gratitudembela@gmail.com
 grattytude/grattytude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-this is a processing sketch that is intended to run on android phones.the mainLoop.pde is the main loop code and the other is a state manager file for playing different states.
